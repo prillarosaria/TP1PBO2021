@@ -1,0 +1,17 @@
+Saya Christina Prilla mengerjakan TP1 dari mata kuliah 
+Desain PBO untuk keberkahannNYa maka saya tidak melakukan kecurangan 
+seperti yang telah dispesifikasikan.
+
+
+Kesulitan yang saya alami adalah ketika :
+- Memunculkan atribut barang yang dinamis... untuk mengatur posisi, lalu
+- Memunculkan detail barang, karena button yang saya buat masih belum bisa 
+menyambung dengan method yang saya buat untuk menampilkan halaman detail
+- Membuat fitur filter/cari karena fitur tersebut masih terdapat error di parameternya...
+
+Hal yang saya pelajari :
+- Penggunaan foreach untuk menampilkan atribut barang
+- Mendesain form
+- Cara menyambungkan form ke suatu link
+- Syntax-syntax baru
+
