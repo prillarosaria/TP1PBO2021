@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\TP1PBO2021\bin\Debug\TP1PBO2021.exe.config
+C:\Users\HP\source\repos\TP1PBO2021\bin\Debug\TP1PBO2021.exe
+C:\Users\HP\source\repos\TP1PBO2021\bin\Debug\TP1PBO2021.pdb
+C:\Users\HP\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.LoginForm.resources
+C:\Users\HP\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.Properties.Resources.resources
+C:\Users\HP\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.exe
+C:\Users\HP\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.pdb
+C:\Users\HP\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.Form2.resources
